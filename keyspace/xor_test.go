@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	u "github.com/ipfs/boxo/util"
+	u "github.com/mikelsr/boxo/util"
 )
 
 func TestPrefixLen(t *testing.T) {

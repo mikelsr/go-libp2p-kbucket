@@ -3,11 +3,11 @@ module github.com/mikelsr/go-libp2p-kbucket
 go 1.19
 
 require (
-	github.com/ipfs/boxo v0.8.1
 	github.com/ipfs/go-log v1.0.5
 	github.com/libp2p/go-cidranger v1.1.0
 	github.com/libp2p/go-libp2p-asn-util v0.3.0
-	github.com/mikelsr/go-libp2p v0.28.1-0.20230701150814-14dbb6aaeb77
+	github.com/mikelsr/boxo v0.10.3-0.20230701161542-9ed0c8405ea2
+	github.com/mikelsr/go-libp2p v0.28.1-0.20230701163002-241de34fb509
 	github.com/minio/sha256-simd v1.0.1
 	github.com/multiformats/go-multiaddr v0.9.0
 	github.com/multiformats/go-multihash v0.2.3

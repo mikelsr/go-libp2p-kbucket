@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"math/bits"
 
-	u "github.com/ipfs/boxo/util"
+	u "github.com/mikelsr/boxo/util"
 	sha256 "github.com/minio/sha256-simd"
 )
 

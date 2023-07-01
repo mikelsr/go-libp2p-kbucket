@@ -8,7 +8,7 @@ import (
 	ks "github.com/mikelsr/go-libp2p-kbucket/keyspace"
 	"github.com/mikelsr/go-libp2p/core/peer"
 
-	u "github.com/ipfs/boxo/util"
+	u "github.com/mikelsr/boxo/util"
 )
 
 // ErrLookupFailure is returned if a routing table query returns no results. This is NOT expected
