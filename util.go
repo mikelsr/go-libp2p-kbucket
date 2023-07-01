@@ -5,8 +5,8 @@ import (
 
 	"github.com/minio/sha256-simd"
 
-	ks "github.com/libp2p/go-libp2p-kbucket/keyspace"
-	"github.com/libp2p/go-libp2p/core/peer"
+	ks "github.com/mikelsr/go-libp2p-kbucket/keyspace"
+	"github.com/mikelsr/go-libp2p/core/peer"
 
 	u "github.com/ipfs/boxo/util"
 )
